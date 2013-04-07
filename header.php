@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="en">
+ <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>transathletes.org</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap-cerulean.min.css" rel="stylesheet" media="screen" />
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css' />
+
+    <!--[if lte IE 8]><script language="javascript" type="text/javascript" src="../excanvas.min.js"></script><![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.dashes.js"></script>
+    <script language="javascript" type="text/javascript" src="js/body_dimensions_datasets.js"></script>
+    <script language="javascript" type="text/javascript" src="js/body_dimensions.js"></script>
+    <script language="javascript" type="text/javascript" src="js/bootstrap.min.js"></script>
+    <style type="text/css">
+    	body {
+/*     		height: 100%; */
+				font-size: 120%;
+				line-height: 120%;
+    	}
+    	p {
+    		margin-bottom: 15px;
+    	}
+			#content-container p 
+			{
+				margin: 10px 0px;
+			}
+    	#graph {
+    		width: 50%;
+    		height: 400px;
+    		margin: 20px;
+    	}
+    	#content-container {
+    		margin-bottom: 20px;
+    		margin-top: 20px;
+    	}
+    	footer {
+    		background-color: #f5f5f5;
+    		height: 60px;
+    	}
+    	.choice-item {
+    		margin-left: 10px;
+    	}
+    	h2 {
+    		margin-top: 30px;
+    	}
+     @media (max-width: 767px) {
+        footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+				#graph {
+					width: 400px;
+					height: 400px;
+				}
+      }
+      .faq-question {
+      	font-family: 'Noto Sans', sans-serif;
+      	color: #b0b0b0;
+      	font-size: 150%;
+      	line-height: 1.5em;
+      }	
+      .lead a {
+      	color: #202020;
+      }
+    </style>
+ </head>
+    <body>
+    <div class="container-fluid">
+			<div class="navbar navbar-inverse">
+				<div class="navbar-inner">
+					<a class="brand" href="/">transathletes.org</a>
+					<ul class="nav">
+						<li class="active"><a href="/">Home</a></li>
+						<li><a href="skeletal.php">Skeletal dimensions</a></li>
+<!-- 
+						<li><a href="genetics.php">Genetics</a></li>
+						<li><a href="statistics.php">Statistics</a></li>
+						<li><a href="puberty.php">Puberty</a></li>
+						<li><a href="prenatal.php">Before birth</a></li>
+ -->
+						<li><a href="socialization.php">Socialization</a></li>
+						</li>
+					</ul>
+					<a class="btn btn-primary pull-right" target="_blank" href="https://twitter.com/TransAthletes">
+						<i class="icon-twitter-sign icon-large"></i>
+						Follow us on Twitter for updates!	
+					</a>
+				</div>
+			</div> <!-- .navbar -->
+			<div id="content-container">
+				<div class="alert alert-info">
+					<p>This site is under construction. We are building it out as we continue our research.</p>
+					<p>If you would like to help, please contact us on Twitter: <a href="http://twitter.com/TransAthletes">@TransAthletes</a>.</p>
+				</div>
+			<!-- end of header template -->
