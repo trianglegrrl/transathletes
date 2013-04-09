@@ -21,7 +21,6 @@
 			It's a volunteer effort, so please be patient with us! If you would like to help,
 			please <a href="https://twitter.com/TransAthletes">contact us on Twitter!</a>
 		</p>		
-		
 	</div>
 </div>
 </div class="row-fluid">
@@ -42,6 +41,22 @@
 			Do trans women have advantages because they were socialized as boys?
 		</p>
 		<p><a href="socialization.php">Read more....</a></p>
+		
+	</div>
+	<div class="alert body-dimensions alert-info span4">
+		<h2>Useful links</h2>
+		<p>	
+			What do sporting organizations have to say about trans athletes competing?
+		</p>
+		<p>
+			<a href="docs/IOCStockholmConsensus.pdf">International Olympic Committee's Stockholm Consensus</a>
+		</p>
+		<p>
+			<a href="docs/AssociationBoxingCommissionsTransPolicy.pdf">Association of Boxing Commissions' trans policy</a>
+		</p>
+		<p>
+			<a href="docs/NCAATransgender_Handbook_2011_Final.pdf">USA National Collegiate Athletic Association (NCAA) trans policy</a>
+		</p>
 		
 	</div>
 </div>
