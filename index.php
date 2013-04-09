@@ -23,7 +23,7 @@
 		</p>		
 	</div>
 </div>
-</div class="row-fluid">
+<div class="row-fluid">
 	<div class="alert body-dimensions alert-info span4">
 		<h2>Featured article</h2>
 		<p class="lead"><a href="skeletal.php">Skeletal dimensions</a></p>
@@ -34,7 +34,7 @@
 		<p><a href="skeletal.php">Read more....</a></p>
 		
 	</div>
-	<div class="alert body-dimensions alert-info span4">
+	<div class="alert socialization alert-info span4">
 		<h2>Featured article</h2>
 		<p class="lead"><a href="socialization.php">Socialization</a></p>
 		<p>	
@@ -43,9 +43,9 @@
 		<p><a href="socialization.php">Read more....</a></p>
 		
 	</div>
-	<div class="alert body-dimensions alert-info span4">
+	<div class="alert alert-info span4">
 		<h2>Useful links</h2>
-		<p>	
+		<p class="muted">	
 			What do sporting organizations have to say about trans athletes competing?
 		</p>
 		<p>
