@@ -13,8 +13,10 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script language="javascript" type="text/javascript" src="js/jquery.flot.js"></script>
     <script language="javascript" type="text/javascript" src="js/jquery.flot.dashes.js"></script>
-    <script language="javascript" type="text/javascript" src="js/body_dimensions_datasets.js"></script>
-    <script language="javascript" type="text/javascript" src="js/body_dimensions.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.JUMlib.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.mouse.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.candlestick.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery.flot.time.js"></script>
     <script language="javascript" type="text/javascript" src="js/bootstrap.min.js"></script>
     <style type="text/css">
     	body {
@@ -29,7 +31,7 @@
 			{
 				margin: 10px 0px;
 			}
-    	#graph {
+    	#graph, #hormone-graph {
     		width: 50%;
     		height: 400px;
     		margin: 20px;
@@ -55,7 +57,7 @@
           padding-left: 20px;
           padding-right: 20px;
         }
-				#graph {
+				#graph, #hormone-graph {
 					width: 400px;
 					height: 400px;
 				}

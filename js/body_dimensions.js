@@ -102,7 +102,7 @@ $(function() {
 	
 	for (var i = 0; i < total_rows; i ++)
 	{
-		console.log(headings[i].name);
+// 		console.log(headings[i].name);
 		choiceContainer.append(
 			'<li class="choice-item">' + 
 				// Measurement title
@@ -125,7 +125,7 @@ $(function() {
 	
   // Now set up the click handler for the checkboxes 
 	$('.gender-independent-checkbox').click(function () {
-		console.log($(this));
+		// console.log($(this));
 		theClickedCheckbox = $(this);
 		// Uncheck all of the other boxes and then check the row you selected
  		$('.gender-independent-checkbox').attr('checked', false).parent().css('font-weight', 'normal').addClass('muted');

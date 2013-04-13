@@ -4,6 +4,9 @@
 	include 'header.php';
 ?>
 <!-- begin body_dimensions -->
+    <script language="javascript" type="text/javascript" src="js/body_dimensions_datasets.js"></script>
+    <script language="javascript" type="text/javascript" src="js/body_dimensions.js"></script>
+
 			<div class="row-fluid">
 				<div id="maincolumn" class="span10 offset1">
 					<div class="row-fluid">
