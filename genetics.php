@@ -32,7 +32,13 @@
 
 		<p>The genes on the Y chromosome code for about 20 unique proteins. Most of the active genes on the Y chromosome either a) have equivalents on other chromosomes, b) are inactive in all XY bodies ("pseudogenes"); or c) are involved in sperm production and expressed only in the testes. Post-surgical transsexual women do not have testes.</p>
 
-<h4>Y chromosome genes active only in the testes or in sperm production</h4>
+		<h4>Y chromosome genes that are inactive in both non-transsexual men and transsexual women</h4>
+		<ol>
+			<li> PRKY - This gene is transcribed but does not code for a functional protein, so it is functionally inactive even in men.</li>
+			<li> BCORP1 - This gene does not code for a functional protein, so it is inactive.</li>		
+		</ol>
+
+		<h4>Y chromosome genes active only in the testes or in sperm production</h4>
 		<ol>
 			<li> AZF1 - Involved in the production of sperm. As post-surgical transsexual women do not produce sperm, this gene has no function.</li>
 			<li> BPY2 - Expressed in cells in the testes. Again, since transsexual women do not have testes, this gene is not expressed.</li>
@@ -44,30 +50,26 @@
 			<li> USP9Y - Involved in sperm production and active only in the testes. Not expressed in post-surgical transsexual women.</li>
 		</ol>
 
-		<h4>Y chromosome genes with equivalents on other chromosomes (all humans have two copies; not unique to the Y chromosome)</h4>		
+		<h4>Y chromosome genes with equivalents on other chromosomes (all humans have two or more copies; not unique to the Y chromosome)</h4>		
 		<ol>
 			<li> AMELX/Y - used in the development of tooth enamel. It also exists on the X chromosome.</li>
 			<li> CD24 - Involved in the differentiation of neurons and one type of immune system cell. There are copies on many other chromosomes, including chromosome 3, chromosome 20, and two locations on chromosome 15.</li>
 			<li> DDX3Y - While this gene does have a functional equivalent on the X chromosome, mutations in the gene affect the production of sperm, so it is likely active in the testes. Post-surgical transsexual women have no testes.</li>
+			<li> PCDH11X/Y - Involved in the development of the nervous system.</li>
 			<li> RPS4Y1/Y2/X - All of these genes code for the same ribosome protein S4. </li>
 			<li> SHOX - This gene is involved in the growth of the skeleton during development. It also exists on the X chromosome.</li>
 			<li> UTX/UTY - This gene codes for a protein that is involved in processes related to neurological development, and are expressed in adult brains as well. Interestingly, the UTY it also seems to have an immune response and has been linked to the rejection of stem cell grafts in XY people.</li>
 			<li> ZFX/ZFY - These genes are rough functional equivalents and seem to be involved in promoting the transcription of other genes.</li>
 		</ol>
-
-		<h4>Y chromosome genes that are inactive in both non-transsexual men and transsexual women</h4>
-		<ol>
-			<li> PRKY - This gene is transcribed but does not code for a functional protein, so it is functionally inactive even in men.</li>
-			<li> BCORP1 - This gene does not code for a functional protein, so it is inactive.</li>		
-		</ol>
+	
+		<p>So that leaves us with....</p>
 		
 		<h4>Y chromosome genes whose activity is unique to XY bodies</h4>
 		<ol>
-			<li> PCDH11Y - Involved in the development of the nervous system.</li>
 			<li> SRY - The big papa of the Y chromosome genes. As mentioned above, SRY is involved in the differentiation of embryos into anatomically male bodies. It sometimes gets moved to the X chromosome, leading to a number of interesting syndromes. Developmentally, it is primarily involved in the differentiation of gonads into testes during embryonic development, though it does seem to be expressed in the testes in adult XY humans. The Olympics used to test for the presence of the SRY gene to determine if an athlete could compete in women's divisions. They abandoned this practice in 2000 because it was not an accurate representation of athletic performance.</li>
 		</ol>
 		
-		<p>Given this, it is very difficult to justify the claim that an XY person who has undergone removal of the testes, and has been on estrogen for several years, has any physiological advantages over an XX person. While they might be genetically male, the XY person is, physiologically, female, and almost every Y chromosome gene is either not unique, inactive, .</p>
+		<p>Given that there is a single gene on the Y chromosome that is appreciably different and not usually (but sometimes) found in XX females, it is very difficult to justify the claim that an XY person who has undergone removal of the testes, and has been on estrogen for several years, has any physiological advantages over an XX person. While they might be genetically male, the XY person is, physiologically, female, and almost every Y chromosome gene is either not unique, inactive, .</p>
 		
 		<p>For more information on testosterone, see our information on <a href="hormones.php">hormones</a>, or on <a href="puberty.php">experiencing puberty under the influence of testosterone</a>.</p>
 		
