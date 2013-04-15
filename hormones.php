@@ -110,16 +110,16 @@
 				
 			});		
 		</script>
-		<h3>Athlete #1 - Testosterone ("male" hormone)</h3>
+		<h3>Athlete #1 - transsexual woman -  - Testosterone ("male" hormone)</h3>
 		<div style="width: 100%; height: 200px;" id="a1-testosterone-graph">
 		</div>
-		<h3>Athlete #1 - Estradiol  ("female" hormone)</h3>
-		<div style="width: 100%; height: 200px;" id="a1-estradiol-graph">
-		</div>
-		<h3>Athlete #2 - Testosterone ("male" hormone)</h3>
+		<h3>Athlete #2 - transsexual woman -  - Testosterone ("male" hormone)</h3>
 		<div style="width: 100%; height: 200px;" id="a2-testosterone-graph">
 		</div>
-		<h3>Athlete #2 - Estradiol  ("female" hormone)</h3>
+		<h3>Athlete #1 - transsexual woman -  - Estradiol  ("female" hormone)</h3>
+		<div style="width: 100%; height: 200px;" id="a1-estradiol-graph">
+		</div>
+		<h3>Athlete #2 - transsexual woman -  - Estradiol  ("female" hormone)</h3>
 		<div style="width: 100%; height: 200px;" id="a2-estradiol-graph">
 		</div>
 	</div>
