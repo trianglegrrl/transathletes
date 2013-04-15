@@ -30,7 +30,7 @@
 		
 		<p>So your genes are not deterministic. Without testosterone, the genes that are activated by testosterone are not active. So if you remove the major source of testosterone--which transsexual women do when they remove their testes and go on hormone replacement therapy--the body becomes physiologically female. There is little use for the Y chromosome at all. It basically goes dormant.</p>
 
-		<p>The genes on the Y chromosome code for about 20 unique proteins. Most of the active genes on the Y chromosome either have equivalents on other chromosomes, or are involved in sperm production and expressed only in the testes. Post-surgical transsexual women do not have testes.</p>
+		<p>The genes on the Y chromosome code for about 20 unique proteins. Most of the active genes on the Y chromosome either a) have equivalents on other chromosomes, b) are inactive in all XY bodies ("pseudogenes"); or c) are involved in sperm production and expressed only in the testes. Post-surgical transsexual women do not have testes.</p>
 
 <h4>Y chromosome genes active only in the testes or in sperm production</h4>
 		<ol>
