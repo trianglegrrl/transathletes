@@ -22,10 +22,18 @@
     	body {
 /*     		height: 100%; */
 				font-size: 120%;
-				line-height: 120%;
+				line-height: 140%;
     	}
     	p {
+    		margin-bottom: 25px;
+    	}
+			.alert-default {
+				border-color: #bce8f1;
+			}
+
+    	ol li {
     		margin-bottom: 15px;
+    		margin-left: 40px;
     	}
 			#content-container p 
 			{
@@ -80,15 +88,16 @@
 					<a class="brand" href="/">transathletes.org</a>
 					<ul class="nav">
 						<li class="active"><a href="/">Home</a></li>
-						<li><a href="skeletal.php">Skeletal dimensions</a></li>
-<!-- 
+						<li><a href="skeletal.php">Body structure</a></li>
+						<li><a href="hormones.php">Hormones</a></li>
 						<li><a href="genetics.php">Genetics</a></li>
-						<li><a href="statistics.php">Statistics</a></li>
+<!-- 
+						<li><a href="brain.php">Brain</a></li>
 						<li><a href="puberty.php">Puberty</a></li>
 						<li><a href="prenatal.php">Before birth</a></li>
  -->
 						<li><a href="socialization.php">Socialization</a></li>
-						</li>
+						<li><a href="faq.php">FAQ</a></li>
 					</ul>
 					<a class="btn btn-primary pull-right" target="_blank" href="https://twitter.com/TransAthletes">
 						<i class="icon-twitter-sign icon-large"></i>
@@ -97,8 +106,10 @@
 				</div>
 			</div> <!-- .navbar -->
 			<div id="content-container">
+<!-- 
 				<div class="alert alert-info">
 					<p>This site is under construction. We are building it out as we continue our research.</p>
 					<p>If you would like to help, please contact us on Twitter: <a href="http://twitter.com/TransAthletes">@TransAthletes</a>.</p>
 				</div>
+ -->
 			<!-- end of header template -->

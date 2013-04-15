@@ -13,23 +13,26 @@
 		<img src="img/sports-icons.png" />
 	</div>
 	<div class="alert body-dimensions span4">
-		<h2>We're working on it!</h2>
-		<p>	
-			This site is under construction and will grow as we have time to provide more information. 
-		</p>
+		<h4>Can you help?</h4>
 		<p>
-			It's a volunteer effort, so please be patient with us! If you would like to help,
-			please <a href="https://twitter.com/TransAthletes">contact us on Twitter!</a>
+			This site is a volunteer effort, so please be patient with us. If you would like to help,
+			please <a href="https://twitter.com/TransAthletes">contact us on Twitter.</a> As our site is
+			heavily focused on transsexual women, we would be particularly interested in working with someone
+			who has experience with transsexual men, or non-transsexual but trans-identified people.
 		</p>		
+		<p>
+			Thanks,<br />
+			Alaina and the <a href="//transathletes.org">transathletes.org</a> team.
+		</p>
 	</div>
 </div>
 <div class="row-fluid">
 	<div class="alert body-dimensions alert-info span4">
 		<h2>Featured article</h2>
-		<p class="lead"><a href="skeletal.php">Skeletal dimensions</a></p>
+		<p class="lead"><a href="skeletal.php">Body structure</a></p>
 		<p>	
-			Learn about the differences (and similarities) between the skeletons and body sizes
-			of men and women.
+			Learn about the differences (and similarities) between the body types of men and women,
+			including transsexual women.
 		</p>
 		<p><a href="skeletal.php">Read more....</a></p>
 		

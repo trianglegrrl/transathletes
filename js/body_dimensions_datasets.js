@@ -1,7 +1,7 @@
 var headings = [
-	{ name: "Biacromial diam (cm)", description: '<img src="img/johnson_figure2.jpg" />' },
-	{ name: "Biiliac diam (cm)", description: '<img src="img/johnson_figure2.jpg" />' },
-	{ name: "Bitrochanteric diam  (cm)", description: '<img src="img/johnson_figure2.jpg" />' },
+	{ name: "Biacromial diam (cm)", description: 'Shoulder width' },
+	{ name: "Biiliac diam (cm)", description: 'Hip width at top of hipbone' },
+	{ name: "Bitrochanteric diam  (cm)", description: 'Width of hips at attachment of upper legs' },
 	{ name: "Chest depth (cm)", description: "Chest depth between spine and sternum at nipple level, mid-expiration" },
 	{ name: "Chest diam  (cm)", description: "Chest diameter at nipple level, mid-expiration" },
 	{ name: "Elbow diam, sum (cm)", description: "Elbow diameter, sum of two elbows" },

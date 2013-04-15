@@ -2,22 +2,26 @@
 	include 'header.php';
 ?>
 <!-- begin index (home) -->
-<h1>Are transsexual women hormonally "normal"?</h1>
-<p>One very common assumption is that transsexual women are hormonally more similar
-to men than to non-trans women.</p>
-<p>Transsexual women who transition begin taking estrogen before they ever have surgery.
-Many transsexual women also take androgen-blocking drugs to reduce either the production or the activity of testosterone.<p>
-
-<p>Testosterone is produced mostly in the ovaries and the testes. The adrenal glands also
-produce a very small amount. Transsexual women who have had genital surgery have neither ovaries nor testes, so the only structures in their body that is producing testosterone are the adrenal glands. Since transsexual women only get their testosterone from the adrenal glands, their testosterone is often much lower than a non-trans woman's.</p>
-
-<p>Below we offer graphs that show the blood values of different transsexual women. Their 
-values fall within the <a href="http://en.wikipedia.org/wiki/Reference_range">reference range</a> for all women. These are called "candlestick graphs". Each candle is one blood test taken on a certain date, taken over the space of at least 7 years after surgery. In the candle, the narrower line is the reference range; the brighter and larger line is the value of that woman's measurement. <em>Note: the units used for blood tests are different in different countries. This is why the Y axis (up/down) changes for different athletes.</em></p>
-
-<p>While transsexual women are usually genetically more similar to men (a majority have a copy of their father's Y chromosome rather than a copy of his X chromosome), their Y chromosome is effectively deactivated, and they are physiologically the same as non-trans women who have had their ovaries removed.</p>
-
 <div class="row-fluid">
-	<div id="graph-span" class="span12">
+	<div id="content-span" class="span10 offset1">
+		<h1>Are transsexual women hormonally "normal"?</h1>
+		<p>One very common assumption is that transsexual women are hormonally more similar
+		to men than to non-trans women.</p>
+
+		<p>There are very, very few hormones in the body that are significantly different between
+		men and women. The most profound differences are in the so-called sex hormones: testosterone, estrogen, and progesterone. These hormones are involved in reproduction as well as in reinforcing the physical characteristics </p>
+		<p>Transsexual women who transition begin taking estrogen before they ever have surgery. Many transsexual women also take androgen-blocking drugs to reduce either the production or the activity of testosterone.<p>
+
+		<p>Testosterone is produced mostly in the ovaries and the testes. The adrenal glands also
+		produce a very small amount. Transsexual women who have had genital surgery have neither ovaries nor testes, so the only structures in their body that is producing testosterone are the adrenal glands. Since transsexual women only get their testosterone from the adrenal glands, their testosterone is often much lower than a non-trans woman's. In fact, if you look at the graphs below, you can see that both transsexual athletes have lower testosterone than the non-transsexual athlete.</p>
+
+		<p>Below we offer graphs that show the blood values of different transsexual women. Their 
+		values fall within the <a href="http://en.wikipedia.org/wiki/Reference_range">reference range</a> for all women. These are called "candlestick graphs". Each candle is one blood test taken on a certain date, taken over the space of at least 7 years after surgery. In the candle, the narrower line is the reference range; the brighter and larger line is the value of that woman's measurement. <em>Note: the units used for blood tests are different in different countries. This is why the Y axis (up/down) changes for different athletes.</em></p>
+
+		<p>While transsexual women are usually genetically more similar to men (a majority have a copy of their father's Y chromosome rather than a copy of his X chromosome), their Y chromosome is effectively deactivated, and they are physiologically the same as non-trans women who have had their ovaries removed.</p>
+
+	</div>
+	<div id="graph-span" class="span10 offset1">
 		<script type="text/javascript">
 			$(function() {
 			
