@@ -32,7 +32,7 @@
 
 		<p>The genes on the Y chromosome code for about 20 unique proteins. Most of the active genes on the Y chromosome either have equivalents on other chromosomes, or are involved in sperm production and expressed only in the testes. Post-surgical transsexual women do not have testes.</p>
 
-<h3>Y chromosome genes active only in the testes or in sperm production</h3>
+<h4>Y chromosome genes active only in the testes or in sperm production</h4>
 		<ol>
 			<li> AZF1 - Involved in the production of sperm. As post-surgical transsexual women do not produce sperm, this gene has no function.</li>
 			<li> BPY2 - Expressed in cells in the testes. Again, since transsexual women do not have testes, this gene is not expressed.</li>
@@ -44,7 +44,7 @@
 			<li> USP9Y - Involved in sperm production and active only in the testes. Not expressed in post-surgical transsexual women.</li>
 		</ol>
 
-		<h3>Y chromosome genes with equivalents on other chromosomes (all humans have two copies; not unique to the Y chromosome)</h3>		
+		<h4>Y chromosome genes with equivalents on other chromosomes (all humans have two copies; not unique to the Y chromosome)</h4>		
 		<ol>
 			<li> AMELX/Y - used in the development of tooth enamel. It also exists on the X chromosome.</li>
 			<li> CD24 - Involved in the differentiation of neurons and one type of immune system cell. There are copies on many other chromosomes, including chromosome 3, chromosome 20, and two locations on chromosome 15.</li>
@@ -55,13 +55,13 @@
 			<li> ZFX/ZFY - These genes are rough functional equivalents and seem to be involved in promoting the transcription of other genes.</li>
 		</ol>
 
-		<h3>Y chromosome genes that are inactive in both non-transsexual men and transsexual women</h3>
+		<h4>Y chromosome genes that are inactive in both non-transsexual men and transsexual women</h4>
 		<ol>
 			<li> PRKY - This gene is transcribed but does not code for a functional protein, so it is functionally inactive even in men.</li>
 			<li> BCORP1 - This gene does not code for a functional protein, so it is inactive.</li>		
 		</ol>
 		
-		<h3>Y chromosome genes whose activity is unique to XY bodies</h3>
+		<h4>Y chromosome genes whose activity is unique to XY bodies</h4>
 		<ol>
 			<li> PCDH11Y - Involved in the development of the nervous system.</li>
 			<li> SRY - The big papa of the Y chromosome genes. As mentioned above, SRY is involved in the differentiation of embryos into anatomically male bodies. It sometimes gets moved to the X chromosome, leading to a number of interesting syndromes. Developmentally, it is primarily involved in the differentiation of gonads into testes during embryonic development, though it does seem to be expressed in the testes in adult XY humans. The Olympics used to test for the presence of the SRY gene to determine if an athlete could compete in women's divisions. They abandoned this practice in 2000 because it was not an accurate representation of athletic performance.</li>
