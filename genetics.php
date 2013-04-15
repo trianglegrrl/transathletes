@@ -47,7 +47,7 @@
 		<h3>Y chromosome genes with equivalents on other chromosomes (all humans have two copies; not unique to the Y chromosome)</h3>		
 		<ol>
 			<li> AMELX/Y - used in the development of tooth enamel. It also exists on the X chromosome.</li>
-			<li> CD24 - Involved in the differentiation of neurons and one type of immune system cell. There are copies on many other chromsomes, including chromosome 3, chromosome 20, and two locations on chromosome 15.<li>
+			<li> CD24 - Involved in the differentiation of neurons and one type of immune system cell. There are copies on many other chromsomes, including chromosome 3, chromosome 20, and two locations on chromosome 15.</li>
 			<li> DDX3Y - While this gene does have a functional equivalent on the X chromosome, mutations in the gene affect the production of sperm, so it is likely active in the testes. Post-surgical transsexual women have no testes.</li>
 			<li> RPS4Y1/Y2/X - All of these genes code for the same ribosome protein S4. </li>
 			<li> SHOX - This gene is involved in the growth of the skeleton during development. It also exists on the X chromosome.</li>
