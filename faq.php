@@ -20,8 +20,6 @@
 		</p>
 		<p class="faq-answer">
 			This is an absurd claim that has been repeated by many people with no evidence to support it. The IOC policy was created by a group of seven physicians and researchers with expertise in relevant fields, not laypeople who just really, really like transsexual folks. The changes undergone by transsexual women after hormone therapy are well understood and well researched. They don't need studies to specifically test safety because the primary physiological advantage--high levels of testosterone--has been eliminated.</p>
-		<p class="faq-answer">
-			Race is a touchy issue, but there are many physical traits that members of a genetic group share that can provide advantages in sport. Did you know that several decades ago, some people argued for separate divisions for black athletes because they were consistently outperforming white athletes? That hasn't changed--the top athletes in many, many sports are predominantly of recent African descent, within the last 200-300 years--but there are no separate divisions for white and black athletes. This is because the idea does not stand up to scrutiny.</p>
 		<p class="faq-question">
 			Aren't transsexual women just men who cut their penises off?
 		</p>
