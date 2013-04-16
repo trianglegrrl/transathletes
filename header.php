@@ -19,14 +19,19 @@
     <script language="javascript" type="text/javascript" src="js/jquery.flot.time.js"></script>
     <script language="javascript" type="text/javascript" src="js/bootstrap.min.js"></script>
     <script language="javascript" type="text/javascript">
-			var url = window.location;
+			var url = window.location.pathname;
+			url.replace(/http:\/\/transathletes.org/,'');
+			url.replace(/http:\/\/127.0.0.1/,'');
+			
+			console.log("url is " + url);
+			console.log($('ul.nav li a[href="'+ url +'"]'));
 			// Will only work if string in href matches with location
-			$('ul.nav a[href="'+ url +'"]').parent().addClass('active');
+			$('ul.nav li a[href="'+ url +'"]').parent().addClass('active');
 
 			// Will also work for relative and absolute hrefs
-			$('ul.nav a').filter(function() {
-					return this.href == url;
-			}).parent().addClass('active');
+// 			$('ul.nav a').filter(function() {
+// 					return this.href == url;
+// 			}).parent().addClass('active');
 		</script>
     <style type="text/css">
     	body {
@@ -97,17 +102,17 @@
 				<div class="navbar-inner">
 					<a class="brand" href="/">transathletes.org</a>
 					<ul class="nav">
-						<li class="active"><a href="/">Home</a></li>
-						<li><a href="skeletal.php">Body structure</a></li>
-						<li><a href="hormones.php">Hormones</a></li>
-						<li><a href="genetics.php">Genetics</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="/skeletal.php">Body structure</a></li>
+						<li><a href="/hormones.php">Hormones</a></li>
+						<li><a href="/genetics.php">Genetics</a></li>
 <!-- 
 						<li><a href="brain.php">Brain</a></li>
 						<li><a href="puberty.php">Puberty</a></li>
 						<li><a href="prenatal.php">Before birth</a></li>
  -->
-						<li><a href="socialization.php">Socialization</a></li>
-						<li><a href="faq.php">FAQ</a></li>
+						<li><a href="/socialization.php">Socialization</a></li>
+						<li><a href="/faq.php">FAQ</a></li>
 					</ul>
 					<a class="btn btn-primary pull-right" target="_blank" href="https://twitter.com/TransAthletes">
 						<i class="icon-twitter-sign icon-large"></i>
