@@ -8,7 +8,7 @@
 
 		<p><em>"You were born with male genes. You're a man. Period."</em></p>
 
-		<p>If you've followed any discussions about transsexual women competing in sport, you must have heard this complaint. It is false, and any biologist or geneticist would be troubled by such a black-and-white statement. Let's unravel it a bit and see why.</p>
+		<p>If you've followed any discussions about transsexual women competing in sport, you must have heard this complaint. It is false, and any biologist would be troubled by such a black-and-white statement. Let's unravel it a bit and see why.</p>
 
 		<p>Your chromosomal makeup is called a karotype. Humans with a normal karotype have 46 chromosomes, 23 from each parent. Normally, your DNA hangs around in each of your cells in a big tangled mass of DNA and proteins called chromatin. When one of your cells starts to  to copy itself, the DNA snaps into structures called chromosomes. </p>
 
