@@ -26,13 +26,10 @@
 		<p class="faq-answer">
 			<em>(This is an edited version of a forum post by <a href="http://sherdog.net">Sherdog</a> user "100% Jiu-Jitsu".)</em>
 			<blockquote>
-			<p>By definition, anyone who wants to live as a woman has a completely different conception of their identity than men do. One cannot "choose" to get there. 
+			<p>
+			As a man, if a wizard cast a spell on me so tomorrow morning I looked in the mirror and saw a female body, then I still wouldn't consider myself a woman. Every guy that I've talked to has told me that he would feel that he was still a man... just one trapped in a woman's body. 
 			</p>
 			<p>
-			Likewise, if a wizard cast a spell on me so tomorrow morning I looked in the mirror and saw a female body... I still wouldn't consider myself a woman. Every guy that I've talked to has told me that he would feel that he was still a man... just one trapped in a woman's body. 
-			</p>
-			<p>
-
 			That simple mental experiment illustrates the difference between one's biological sex and one's gender identity. The hypothetical scenario relied on magic to create a difference between one's genitals and one's gender identity. In real life, the process can occur in utero. "As the sexual differentiation of the genitals takes places much earlier on in development (in the ﬁrst 2 months of pregnancy) than the sexual differentiation of the brain (starting in the second semester of pregnancy and becoming overt upon reaching adulthood), these two processes may be inﬂuenced independently of each other, which may result in people with male sexual organs who feel female and vice versa (a phenomenon called transsexuality)." (Swaab DF. Sexual differentiation of the brain and behavior. Best Pract Res Clin Endocrinol Metab 2007;21:431-44.) 
 			</p>
 			<p>
