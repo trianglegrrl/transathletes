@@ -19,19 +19,17 @@
     <script language="javascript" type="text/javascript" src="js/jquery.flot.time.js"></script>
     <script language="javascript" type="text/javascript" src="js/bootstrap.min.js"></script>
     <script language="javascript" type="text/javascript">
-			var url = window.location.pathname;
-			url.replace(/http:\/\/transathletes.org/,'');
-			url.replace(/http:\/\/127.0.0.1/,'');
-			
-			console.log("url is " + url);
-			console.log($('ul.nav li a[href="'+ url +'"]'));
-			// Will only work if string in href matches with location
-			$('ul.nav li a[href="'+ url +'"]').parent().addClass('active');
-
-			// Will also work for relative and absolute hrefs
-// 			$('ul.nav a').filter(function() {
-// 					return this.href == url;
-// 			}).parent().addClass('active');
+			$(function() {
+				var url = window.location.pathname;
+				url.replace(/http:\/\/transathletes.org/,'');
+				url.replace(/http:\/\/127.0.0.1/,'');
+		
+				console.log("url is " + url);
+				console.log($('ul.nav li a[href="'+ url +'"]'));
+				// Will only work if string in href matches with location
+				$('ul.nav li a[href="'+ url +'"]').parent().addClass('active');
+				$('.tooltip').tooltip();
+			});
 		</script>
     <style type="text/css">
     	body {
@@ -95,8 +93,11 @@
       	color: #202020;
       }
       
-      .hero-unit ol {
+      .alert.sidebar ol {
       	margin: 0 0 10px 0;
+      }
+      .alert.sidebar ol li {
+      	margin-left: 25px;
       }
       
       .alert.sidebar {
