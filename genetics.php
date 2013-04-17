@@ -3,7 +3,7 @@
 ?>
 <!-- begin genetics -->
 <div class="row-fluid">
-	<div class="span10 offset1">
+	<div class="span7 offset1">
 		<h1>How do genes make us?</h1>
 
 		<p><em>"You were born with male genes. You're a man. Period."</em></p>
@@ -30,6 +30,9 @@
 		
 		<p>So your genes are not deterministic. Without testosterone, the genes that are activated by testosterone are not active. So if you remove the major source of testosterone--which transsexual women do when they remove their testes and go on hormone replacement therapy--the body becomes physiologically female. There is little use for the Y chromosome at all. It basically goes dormant.</p>
 
+	</div>
+	<div class="alert sidebar span3">
+		<h3>The Y chromosome for nerds</h3>
 		<p>The genes on the Y chromosome code for about 20 unique proteins. Most of the active genes on the Y chromosome either a) have equivalents on other chromosomes, b) are inactive in all XY bodies ("pseudogenes"); or c) are involved in sperm production and expressed only in the testes. Post-surgical transsexual women do not have testes.</p>
 
 		<h4>Y chromosome genes that are inactive in both non-transsexual men and transsexual women</h4>
@@ -68,12 +71,8 @@
 		<ol>
 			<li> SRY - The big papa of the Y chromosome genes. As mentioned above, SRY is involved in the differentiation of embryos into anatomically male bodies. It sometimes gets moved to the X chromosome, leading to a number of interesting syndromes. Developmentally, it is primarily involved in the differentiation of gonads into testes during embryonic development, though it does seem to be expressed in the testes in adult XY humans. The Olympics used to test for the presence of the SRY gene to determine if an athlete could compete in women's divisions. They abandoned this practice in 2000 because it was not an accurate representation of athletic performance.</li>
 		</ol>
-		
-		<p>Given that there is a single gene on the Y chromosome that is appreciably different and not usually (but sometimes) found in XX females, it is very difficult to justify the claim that an XY person who has undergone removal of the testes, and has been on estrogen for several years, has any physiological advantages over an XX person. While they might be genetically male, the XY person is, physiologically, female, and almost every Y chromosome gene is either not unique, inactive, or active only in the testes.</p>
-		
-		<p>For more information on testosterone, see our information on <a href="hormones.php">hormones</a>, or on <a href="puberty.php">experiencing puberty under the influence of testosterone</a>.</p>
-		
-	</div> <!-- .span12 --> 
+			
+	</div> <!-- .sidebar --> 
 </div> <!-- .row-fluid -->
 
 <!-- end genetics -->

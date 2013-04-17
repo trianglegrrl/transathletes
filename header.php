@@ -94,6 +94,23 @@
       .lead a {
       	color: #202020;
       }
+      
+      .hero-unit ol {
+      	margin: 0 0 10px 0;
+      }
+      
+      .alert.sidebar {
+      	border: 1px solid #444;
+      	background-color: #ffffff;
+      	color: #555;
+      	font-size: 80%;
+      	padding: 8px 12px;
+      }
+      .alert.sidebar h4 {
+      	color: #000;
+      	margin-bottom: 10px;
+      	font-size: 16px;
+      }
     </style>
  </head>
     <body>

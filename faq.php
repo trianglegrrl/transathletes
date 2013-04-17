@@ -24,7 +24,7 @@
 			What causes transsexuality? Is it a choice?
 		</p>
 		<p class="faq-answer">
-			<em>(This is an edited version of a forum post by <a href="http://sherdog.net">Sherdog</a> user "100% Jiu-Jitsu".)</em>
+			<em>This is an edited version of a forum post by <a href="http://sherdog.net">Sherdog</a> user "100% Jiu-Jitsu". Gender identity is more complicated than a simple male/female distinction, but there is strong evidence that there is a neurological basis for the gender identity inconsistency that transsexuals experience.</em>
 			<blockquote>
 			<p>
 			As a man, if a wizard cast a spell on me so tomorrow morning I looked in the mirror and saw a female body, then I still wouldn't consider myself a woman. Every guy that I've talked to has told me that he would feel that he was still a man... just one trapped in a woman's body. 
