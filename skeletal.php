@@ -19,7 +19,7 @@
 					<p>Find the trans fighter(s) in the collage below. There is at least one, but we might try to mess with your head and post pictures of multiple trans athletes. If you an an MMA or boxing fan, don't try to guess based on what promotion they're fighting at, their tattoos, or what they are wearing. Just use the shape of their body.</p>
 					<p>
 						<a name="answer-click"></a>
-						<img src="/img/find-the-trans-athlete.jpg" style="width: 100%" class="full-width-image" />
+						<img src="img/find-the-trans-athlete.jpg" style="width: 100%" class="full-width-image" />
 					</p>
 					<p class="click-for-answer">
 						<a href="#answer-click" onclick="$('.hidden-answer').fadeIn();$('.click-for-answer').hide(); ">

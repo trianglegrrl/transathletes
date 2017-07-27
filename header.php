@@ -118,19 +118,19 @@
     <div class="container-fluid">
 			<div class="navbar navbar-inverse">
 				<div class="navbar-inner">
-					<a class="brand" href="/">transathletes.org</a>
+					<a class="brand" href="/transathletes">transathletes.org</a>
 					<ul class="nav">
-						<li><a href="/">Home</a></li>
-						<li><a href="/skeletal.php">Body structure</a></li>
-						<li><a href="/hormones.php">Hormones</a></li>
-						<li><a href="/genetics.php">Genetics</a></li>
+						<li><a href="/transathletes">Home</a></li>
+						<li><a href="skeletal.php">Body structure</a></li>
+						<li><a href="hormones.php">Hormones</a></li>
+						<li><a href="genetics.php">Genetics</a></li>
 <!-- 
 						<li><a href="brain.php">Brain</a></li>
 						<li><a href="puberty.php">Puberty</a></li>
 						<li><a href="prenatal.php">Before birth</a></li>
  -->
-						<li><a href="/socialization.php">Socialization</a></li>
-						<li><a href="/faq.php">FAQ</a></li>
+						<li><a href="socialization.php">Socialization</a></li>
+						<li><a href="faq.php">FAQ</a></li>
 					</ul>
 					<a class="btn btn-primary pull-right" target="_blank" href="https://twitter.com/TransAthletes">
 						<i class="icon-twitter-sign icon-large"></i>
